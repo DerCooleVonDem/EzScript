@@ -1,0 +1,7 @@
+---
+name: EzScript
+version: 0.0.1
+main: JonasWindmann\EzScript\Main
+api: 5.32.1
+src-namespace-prefix: JonasWindmann\EzScript
+...
